@@ -695,9 +695,9 @@ h6 {
   margin-left: 10px;
 }
 
-.villoz-owl__carousel--with-shadow .owl-stage-outer {
+/* .villoz-owl__carousel--with-shadow .owl-stage-outer {
   overflow: visible;
-}
+} */
 .villoz-owl__carousel--with-shadow .owl-item {
   opacity: 0;
   visibility: hidden;
@@ -740,7 +740,7 @@ h6 {
   gap: 10px;
   margin-top: 60px;
 }
-.villoz-owl__carousel--basic-nav .owl-dots .owl-dot span {
+/* .villoz-owl__carousel--basic-nav .owl-dots .owl-dot span {
   background-color: var(--villoz-black, #132742);
   margin: 0;
   width: 7px;
@@ -749,7 +749,7 @@ h6 {
   opacity: 0.3;
   display: inline-block;
   border-radius: 50%;
-}
+} */
 .villoz-owl__carousel--basic-nav .owl-dots .owl-dot:hover span, .villoz-owl__carousel--basic-nav .owl-dots .owl-dot.active span {
   background-color: var(--villoz-black, #132742);
   transform: scale(2);
